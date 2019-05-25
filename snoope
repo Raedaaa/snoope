@@ -6,7 +6,7 @@ const client = new Discord.Client();
 const bot = new Discord.Client();
 const hero = client;
 const fs = require("fs");
-client.login(`مالك دخل`)
+client.login(`535590684120580116`)
 const ms = require("ms");
 const prefix = "$"
 
